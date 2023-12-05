@@ -6,7 +6,7 @@ public class Testone {
 		// TODO Auto-generated method stub
 System.out.println("greeting");
 System.out.println("thank you");
-System.out.println("problem");
+System.out.println("problem.");
 	}
 
 }
